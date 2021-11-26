@@ -1,2 +1,4 @@
 esto es la primera prueba
 aqui estoy modificando
+otro cambio de como funciona el diff codigo-decomit otro-comit y asi se comparan y muestran
+las diferencias
