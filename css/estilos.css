@@ -20,3 +20,12 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera{
+    background: blue;
+    padding: 10px;
+}
+
+#cabecera h3{
+    color: white;
+}
